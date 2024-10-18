@@ -1,3 +1,7 @@
 0-19 perm0 hidden0, 20-39 perm1 hidden0, 40-59 perm2 hidden0, 60-79 perm0 hidden1, 80-99 perm1 hidden1, 100-119 perm2 hidden1, 120-139 perm0 hidden2, 140-159 perm1 hidden2, 160-179 perm2 hidden2
 
 0 perm0 hidden0, 1 perm1 hidden0, 2 perm2 hidden0, 3 perm0 hidden1, 4 perm1 hidden1, 5 perm2 hidden1, 6 perm0 hidden2, 7 perm1 hidden2, 8 perm2 hidden2
+
+hidden0 = 1.0*features
+hidden1 = 0.7*features
+hidden2 = 0.4*features
