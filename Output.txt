@@ -189,3 +189,15 @@ Training Progress: 100%|██████████| 2200/2200 [17:43<00:00, 
 6 Correct Training: 32.75, Incorrect Training: 1.25, Correct Test: 17.55, Incorrect Test: 1.45
 7 Correct Training: 34.5, Incorrect Training: 1.5, Correct Test: 16.05, Incorrect Test: 0.95
 8 Correct Training: 34.65, Incorrect Training: 1.35, Correct Test: 16.2, Incorrect Test: 0.8
+
+Training Accuracy/Testing Accuracy
+            96.6%/92.4%
+            96.5%/93.5%
+            96.8%/95.0%
+            96.5%/92.1%
+            96.1%/93.8%
+            96.7%/95.3%
+            96.3%/92.4%
+            95.8%/94.4%
+            96.2%/95.3%
+
